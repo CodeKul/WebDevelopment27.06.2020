@@ -1,0 +1,40 @@
+body 
+{
+    background-color: gray;
+}
+
+.orangeTile
+{
+    background-color: orange;
+    border:black solid 1px;
+    
+}
+
+.lightOrTile
+{
+    background-color: #eba434;
+    border:black solid 1px;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.lightSBTile
+{
+    background-color: #7a97e9;
+    border:rgb(67, 10, 224) solid 1px;
+    border-radius: 5px;
+    width: 50%;
+    height: 50%;
+    /* float: left; */
+}
+
+.lightRDTile
+{
+    background-color: #eb5a55;
+    border:rgb(255, 1, 1) solid 1px;
+    border-radius: 5px;
+    width: 50%;
+    height: 75%;
+}
